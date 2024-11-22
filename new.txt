@@ -1,1 +1,1 @@
-this is a new file to test c
+An AI report analyzer tool uses artificial intelligence to automatically process, interpret, and extract key insights from reports. It can summarize complex documents, identify trends, highlight critical data, and generate actionable recommendations, helping users quickly understand large volumes of information and make informed decisions.
